@@ -239,52 +239,6 @@ body{
 /* 
 main end */
 
-/* section 1 start */
-.para{
-    max-width: 450px;
-    background-color: #fff;
-    margin: 0 auto;
-}
-.paragaph{
-    margin-top: -70px;
-    padding: 20px;
-}
-.section1{
-    background-image: url(img/home-vendor-bd.jpg);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    min-height: 280px;
-    max-width: 100%;
-    margin-top: 90px;
-}
-.paragaph h1{
-    font-weight: 300;
-    font-size: 1.5rem;
-    line-height: 1.1em;
-    
-    
-    padding-bottom: 30px;
-    color: #333;
-}
-.paragaph p{
-    font-weight: 300;
-    padding: 5px 0;
-    color: #707070;
-}
-.paragaph span{
-    
-    
-}
-.sec-btn{
-    width: 420px;
-    padding: 15px;
-    margin-top: 10px;
-    background-color: #D70F64;
-    color: #fff;
-    border: none;
-    outline: none;
-}
 /* section 1 end */
 
 @media only screen and (min-width: 576px) {
@@ -396,31 +350,4 @@ main end */
     .s-icon{
         background-position: 420px;
     }
-    .section1{
-        
-    }
-    .sec-p{
-        background-image: url(img/home-vendor-bd.jpg);
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        min-height: 435px;
-        max-width: 100%;
-        margin-top: 30px;
-    }
-    .para{
-        max-width: 600px;
-        background-color: #fff;
-        margin-left: 75px;
-        margin-top: -270px;
-    }
-    .paragaph h1{
-        font-weight: 300;
-        
-    }
-    .sec-btn{
-        width: 240px;
-        padding: 15px;
-        margin-top: 50px;
-        margin-left: 300px;
-    }
+  
